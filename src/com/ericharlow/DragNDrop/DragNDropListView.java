@@ -47,11 +47,6 @@ public class DragNDropListView extends ListView {
 		super(context, attrs);
 	}
 	
-	void demo_Function_A()
-	{
-		
-	}
-	
 	void demo_Function_B()
 	{
 		
